@@ -1,0 +1,12 @@
+  {
+  "name": "manifold-plugin-footer",
+  "version": "1.0.0",
+  "description": "A Manifold plugin proof of concept",
+  "main": "plugin.js",
+  "author": "Zach Davis, Cast Iron Coding",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "add": "^2.0.6"
+  }
+}
